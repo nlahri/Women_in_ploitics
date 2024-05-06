@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
-import geopandas 
+
 #import folium
 #from streamlit_folium import folium_static
 import matplotlib.pyplot as plt
-import mplcursors
+
 
 import plotly.express as px
 import plotly 
